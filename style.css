@@ -8,7 +8,7 @@
   
      /* background: url('D:\Projects\shankara\valley-landscape-aesthetic-mountains-gradient-background-6318x2633-4589.jpg'); */
   background-image: url(valley-landscape-aesthetic-mountains-gradient-background-6318x2633-4589.jpg)  ;
-    background-size: ;
+    
     background-repeat: repeat;
   
     /* background-image: linear-gradient(rgb(3, 25, 82), rgba(0, 8, 255, 0.525)); */
@@ -166,4 +166,7 @@
     background: black;
     /* top:38px; */
   
+  }
+  @media screen and (max-width: 600px){
+    
   }
